@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on LinkedIn. 
 - 🤔 I’m looking for help with Code. 
 - 💬 Ask me about Java. 
-- 📫 How to reach me: code.gygshwr@gmail.com. 
+- 📫 You can reach me at https://www.linkedin.com/in/gygshwr/. 
 - ⚡ Fun fact: I don't binge watch series. 
 
