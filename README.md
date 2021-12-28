@@ -9,5 +9,4 @@
 - 💬 Ask me about Java. 
 - 📫 You can reach me at https://www.linkedin.com/in/gygshwr/. 
 - ⚡ Fun fact: I don't binge watch series. 
-
-< a href="https://github-readme-stats.vercel.app/api?username=YSH-X"></a>
+[![Ysh's 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ysh-x&hide=issues&count_private=true&show_icons=true&theme=calm)
