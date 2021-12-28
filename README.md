@@ -10,4 +10,4 @@
 - 📫 You can reach me at https://www.linkedin.com/in/gygshwr/. 
 - ⚡ Fun fact: I don't binge watch series. 
 
-https://github-readme-stats.vercel.app/api?username=YSH-X
+< a href="https://github-readme-stats.vercel.app/api?username=YSH-X"></a>
